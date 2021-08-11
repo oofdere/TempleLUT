@@ -15,6 +15,9 @@ Download the LUT you want, then import it into the software of your choice.
 ### OBS
 Select the source you want to apply the LUT to, then select Filters. Click the + button under Effect Filters, and add an Apply LUT effect. Then, browse to where you downloaded 16.png or 16d.png. For best results, right click the source and change Scale Filtering to Point.
 
+## How to get better results
+Apply color correction to the source before the LUT, and do things that reduce the amount of colours in the image, like bumping up the contrast:![image](https://user-images.githubusercontent.com/43102807/128982124-5db9db33-3ff6-49f2-b171-13a0c5b8af0d.png)
+
 ## License
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
