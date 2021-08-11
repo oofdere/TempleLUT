@@ -1,6 +1,8 @@
 # TempleLUT
 Lookup tables using the TempleOS colour scheme, for use in image and video processing software.
 
+16.png is the original 16-colour scheme used in TempleOS which doesn't cover a lot of the colour spectrum, while 16d.png uses dithering to make colour approximation more accurate, but doesn't look as authentic. Pick your poison.
+
 ## Demo
 ![comparison](https://user-images.githubusercontent.com/43102807/128951220-dadb62bd-1f10-4e50-9f1d-9c527cd9ccdf.png)
 The above image is licensed under CC-BY-SA 4.0 due to the colour wheel having the same license.
@@ -11,7 +13,7 @@ The above image is licensed under CC-BY-SA 4.0 due to the colour wheel having th
 Download the LUT you want, then import it into the software of your choice.
 
 ### OBS
-Select the source you want to apply the LUT to, then select Filters. Click the + button under Effect Filters, and add an Apply LUT effect. Then, browse to where you downloaded 16.png or 16d.png.
+Select the source you want to apply the LUT to, then select Filters. Click the + button under Effect Filters, and add an Apply LUT effect. Then, browse to where you downloaded 16.png or 16d.png. For best results, right click the source and change Scale Filtering to Point.
 
 ## License
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
